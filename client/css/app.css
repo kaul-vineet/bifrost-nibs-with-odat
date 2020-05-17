@@ -101,7 +101,7 @@ a {
 }
 
 .icon-chocolate-square {
-    background: url('img/chocolate-square.png');
+    background: url('img/chocolate-square.svg');
     background-size: 100% auto;;
     background-repeat: no-repeat;
     width: 32px;
@@ -229,7 +229,7 @@ a {
 
 .profile .block h3 {
     font-family: "Source Sans Light" !important;
-    color: #805959 !important;
+    color: #bf1ccd !important;
     margin: 8px;
     font-size: 20px;
 }
@@ -251,28 +251,28 @@ a {
 }
 
 .bar-status {
-    border-color: #73732E;
+    border-color: #BF1CCD;
     background-color: #73732E;
     background-image: none;
     color: #fff;
 }
 
 .bar-status1 {
-    border-color: #73732E;
-    background-color: #73732E;
+    border-color: #BF1CCD;
+    background-color: #BF1CCD;
     background-image: none;
     color: #fff;
 }
 
 .bar-status2 {
-    border-color: #A87E21;
+    border-color: #BF1CCD;
     background-color: #A87E21;
     background-image: none;
     color: #fff;
 }
 
 .bar-status3 {
-    border-color: #802E13;
+    border-color: #BF1CCD;
     background-color: #802E13;
     background-image: none;
     color: #fff;
