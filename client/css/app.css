@@ -101,7 +101,7 @@ a {
 }
 
 .icon-chocolate-square {
-    background: url('img/chocolate-square.svg');
+    background: url('img/chocolate-square.png');
     background-size: 100% auto;;
     background-repeat: no-repeat;
     width: 32px;
@@ -432,7 +432,7 @@ a {
 }
 
 .badge {
-    background-color: #805959;
+    background-color: df2eee;
 }
 
 .activity-pic {
@@ -502,7 +502,7 @@ a {
 
 .menu,
 .menu .item-content {
-    background-color: #1A1A1A;
+    background-color: #7705fc;
 }
 
 .menu .item-content {
