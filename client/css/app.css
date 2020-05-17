@@ -502,7 +502,7 @@ a {
 
 .menu,
 .menu .item-content {
-    background-color: #69625A;
+    background-color: #1A1A1A;
 }
 
 .menu .item-content {
@@ -513,7 +513,7 @@ a {
 .sos-button {
     color:white;
     alpha:0.8;
-    background-color:#790507;
+    background-color:#FFFFFF;
     border-radius:10px;
     left:50%;
     margin-left:-75px;
