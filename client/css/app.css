@@ -387,7 +387,7 @@ a {
 }
 
 .status1-bg {
-    background: #F4F2E5;
+    background: #143351;
 }
 
 .status2-bg {
@@ -395,11 +395,11 @@ a {
 }
 
 .status3-bg {
-    background: #913335;
+    background: #D55A68;
 }
 
 .status1 {
-    color: #F4F2E5;
+    color: #143351;
 }
 
 .status2 {
@@ -407,7 +407,7 @@ a {
 }
 
 .status3 {
-    color: #913335;
+    color: #D55A68;
 }
 
 .icon-status1 {
@@ -502,7 +502,7 @@ a {
 
 .menu,
 .menu .item-content {
-    background-color: #7705fc;
+    background-color: #8F282B;
 }
 
 .menu .item-content {
