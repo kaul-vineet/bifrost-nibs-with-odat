@@ -229,7 +229,7 @@ a {
 
 .profile .block h3 {
     font-family: "Source Sans Light" !important;
-    color: #bf1ccd !important;
+    color: #e5cb76 !important;
     margin: 8px;
     font-size: 20px;
 }
@@ -251,29 +251,29 @@ a {
 }
 
 .bar-status {
-    border-color: #bf1ccd;
+    border-color: #e5cb76;
     background-color: #361aff;
     background-image: none;
     color: #fff;
 }
 
 .bar-status1 {
-    border-color: #bf1ccd;
-    background-color: #bf1ccd;
+    border-color: #e5cb76;
+    background-color: #e5cb76;
     background-image: none;
     color: #fff;
 }
 
 .bar-status2 {
-    border-color: #bf1ccd;
-    background-color: #bf1ccd;
+    border-color: #e5cb76;
+    background-color: #e5cb76;
     background-image: none;
     color: #fff;
 }
 
 .bar-status3 {
-    border-color: #bf1ccd;
-    background-color: #bf1ccd;
+    border-color: #e5cb76;
+    background-color: #e5cb76;
     background-image: none;
     color: #fff;
 }
@@ -387,27 +387,27 @@ a {
 }
 
 .status1-bg {
-    background: #3610FF;
+    background: #F4F2E5;
 }
 
 .status2-bg {
-    background: #7F0AE5;
+    background: #E5CC76;
 }
 
 .status3-bg {
-    background: #AF0DF5;
+    background: #913335;
 }
 
 .status1 {
-    color: #3610FF;
+    color: #F4F2E5;
 }
 
 .status2 {
-    color: #7F0AE5;
+    color: #E5CC76;
 }
 
 .status3 {
-    color: #AF0DF5;
+    color: #913335;
 }
 
 .icon-status1 {
@@ -502,7 +502,7 @@ a {
 
 .menu,
 .menu .item-content {
-    background-color: #913336;
+    background-color: #7705fc;
 }
 
 .menu .item-content {
